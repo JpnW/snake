@@ -1,0 +1,25 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "html/index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JpnW/Snake.git"
+  },
+  "author": "Jingping Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JpnW/Snake/issues"
+  },
+  "homepage": "https://github.com/JpnW/Snake#readme",
+  "dependencies": {
+    "mocha": "^2.2.5"
+  }
+}
