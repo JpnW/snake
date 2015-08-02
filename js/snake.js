@@ -10,8 +10,8 @@
 
 (function() {
   if (typeof SG === "undefined") {
-    // window.SG = {};
-    module.export = this.SG = {};
+    window.SG = {};
+    // module.export = this.SG = {};
   }
 //coordinate
 /*
